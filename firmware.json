@@ -15,14 +15,14 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 4,
-      "size": 45880,
-      "image_size": 112440,
+      "version": 5,
+      "size": 45884,
+      "image_size": 112444,
       "header_gap": 66560,
-      "sha256": "76c0b96fa85956ff1148165a1e0e120f7ab9d6f393e9cbb1d5f1c247ede31907",
-      "signature": "7f0f6857cf0f0dbbf8d31f34f6965adde78bd7cf8f1055643df9d16216ee4d7200dcc1608da81ce84da36773c22924afce09e16c65c303ff9d95aeef7c656011",
+      "sha256": "32b382721805389cda15251f8826d5397adeb5c2f92f4356977f264813842c47",
+      "signature": "5c1fac64c44bb5bef65ffafdfd9d5b932a8534912ce2d639d515e15a14b8d7ef0b7f076bd56c819a38c14c39cea8cf5e75fb7d7eb0f7035ff0d18633f1bfc557",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v4.fwimg"
+      "file": "gateway_v5.fwimg"
     }
   }
 }
