@@ -16,11 +16,11 @@
       "target": "gateway",
       "target_id": 1,
       "version": 6,
-      "size": 45964,
-      "image_size": 112524,
+      "size": 45976,
+      "image_size": 112536,
       "header_gap": 66560,
-      "sha256": "cccdfbfa083b90d422d376e407da58d6ffa2a8a72d5945733d19ff3b5f188ef9",
-      "signature": "d36687bd0902e9431d2c3e9c71c80bce47774297415c3dc130b2f196492d00152f1271b54b68a70a0ad948991e073a513172103ee0a5292a50dde5402d9df088",
+      "sha256": "2a78134b05526bc737a0f79011bf75a70226c760ae69bcccb0cb2d3927970d9b",
+      "signature": "b785870c53d735cea22eaf7e27ec20db3cd5f3e170e85e19f790b8bc75bc1364dde32d4466b7df7072e4e9daea1f7a1c843c5b1f15bd3ad7d95b2def289764e0",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "file": "gateway_v6.fwimg"
     }
