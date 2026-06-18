@@ -1,5 +1,17 @@
 {
   "images": {
+    "gateway": {
+      "target": "gateway",
+      "target_id": 1,
+      "version": 11,
+      "size": 45865,
+      "image_size": 112425,
+      "header_gap": 66560,
+      "sha256": "1eab790db7b5b57b4c6901351d62336b38b30310c5e8f03fac3137db1131372a",
+      "signature": "8bef4b1a5b000be4ba11f8ead449554ecfc9e843fd381921cb22a1a264313bef31fdafcd55f05658a3b3a5c3499687337dc326e1a8d2de8cc5a34bd22c4a7822",
+      "signature_algorithm": "ECDSA-P256-SHA256",
+      "file": "gateway_v11.fwimg"
+    },
     "device1": {
       "target": "device1",
       "target_id": 2,
@@ -8,21 +20,9 @@
       "image_size": 131349,
       "header_gap": 1024,
       "sha256": "d06b27fc2727de2588cffcca9e6a316d2047b4a96de4987f73ad703023c2d59b",
-      "signature": "a4c2cad3c9635c331305d0996c3d961300c55a24d200fd120031c20a3486e010d5639bf6cf031dabacc24c54912795912d1304bdd81bce437a9786a5313ee586",
+      "signature": "6ed01d1b2a43ae7ba3cd7bc1b37c30e5587372e2dae6f24e6735f09007c0d08a4b5f5c1b5517e6a4ce3e5a68c6a79b2db4a67a0ffccd06b8645b344dceecdb7c",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "file": "device1_v3.fwimg"
-    },
-    "gateway": {
-      "target": "gateway",
-      "target_id": 1,
-      "version": 10,
-      "size": 45865,
-      "image_size": 112425,
-      "header_gap": 66560,
-      "sha256": "1eab790db7b5b57b4c6901351d62336b38b30310c5e8f03fac3137db1131372a",
-      "signature": "96f123130a247b221c5ceca4e1f96cfa11c9e4e663a14224fcf47f6dd7112f109da5de76ea8e4d6724a9ddf03e1f006c738262d35ad968d5d19cda3f403fb81f",
-      "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v10.fwimg"
     }
   }
 }
