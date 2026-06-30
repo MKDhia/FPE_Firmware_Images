@@ -15,14 +15,14 @@
     "device1": {
       "target": "device1",
       "target_id": 2,
-      "version": 5,
-      "size": 239108,
-      "image_size": 240132,
+      "version": 6,
+      "size": 238964,
+      "image_size": 239988,
       "header_gap": 1024,
-      "sha256": "8dec059fccf7d04e38ba903a8de77d289f530a488f23da8f242fe887d6ad6e0d",
-      "signature": "948790b60a680bc3fc5ec92f17ebd973f234a0944118b21b6538626dd40dcbf6dde26a370145d7feda9de14851d69599078539ac5ab7265b8442f3ba56abe2a4",
+      "sha256": "57804ee6e89d518d97263e9b02f6b1edd4fe569fc74d18654ee413228ac8db41",
+      "signature": "b1b3a72b2a1080ba92001e809ea0623d819ce7e2d925d7e0c799c965ada1e6eef50d4dea19ed9436d578a93a158f963a134a618b7919a19b079f767753f63933",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "device1_v5.fwimg"
+      "file": "device1_v6.fwimg"
     }
   }
 }
