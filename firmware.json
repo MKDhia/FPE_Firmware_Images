@@ -3,14 +3,14 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 15,
-      "size": 76412,
-      "image_size": 142972,
+      "version": 16,
+      "size": 45976,
+      "image_size": 112536,
       "header_gap": 66560,
-      "sha256": "bc00cd4257d6117e72daf53ad24c98d6c58c99dc15dfc092d6b5ff0feca5e3c5",
-      "signature": "9f2b054f4c13237a6045e8d7d749c50500207ee7abe49e6221ac254588c42c7ee7b53fa943cc058eae7fa281da2d9231ebf5e0ace0c19a2bea22071f38cdb0e0",
+      "sha256": "2a78134b05526bc737a0f79011bf75a70226c760ae69bcccb0cb2d3927970d9b",
+      "signature": "2a6def0a22ad582a5f50bede87ca39f98ad66b949cef9e3a871c7d931f3d08f04949cb95c82550ea6111a7f620df2d5b26a34704398a745c9b022355c55853f3",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v15.fwimg"
+      "file": "gateway_v16.fwimg"
     },
     "device1": {
       "target": "device1",
