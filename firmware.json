@@ -3,26 +3,26 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 21,
-      "size": 76656,
-      "image_size": 143216,
+      "version": 22,
+      "size": 76428,
+      "image_size": 142988,
       "header_gap": 66560,
-      "sha256": "b148007d0d199c174d438effe8d375cc836617d293eea48aa26eca991e70fb72",
-      "signature": "43fd836c7409aa1cf6334b2677cb95dab910756105799661a72de316ec5119ee5d0d86edc84bfac5026b97596ebfc4e216b8c8a81e26f8ac38a224334e9a5aae",
+      "sha256": "9e94a60f494b62485ab3060bd592db84696a403db0f197a042a1d494f402c301",
+      "signature": "e363059ab1777c72416cbf163a6efebfb7af18106bf2d5aca73c432b31066940cb850acae5457d63adf329704b38348a0d11da2197d4e23601dc548e09c12572",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v21.fwimg"
+      "file": "gateway_v22.fwimg"
     },
     "device1": {
       "target": "device1",
       "target_id": 2,
-      "version": 7,
+      "version": 8,
       "size": 239108,
       "image_size": 240132,
       "header_gap": 1024,
-      "sha256": "68306ba7b43cf409cad3783037944e254588f9adef90ba0b396e0a7a68bf114c",
-      "signature": "c35229cac3c68d4e1c5d1c3da9b8fb5ec7ade9ee5481b7ffc42485084d9b070ed9e91dc4086755237cf31e4bd18711d22cdc911940c30a0b98f219b7893a56f5",
+      "sha256": "cb753e9b9746315e066da9323f078d1deba6fe2b114a71039325fcfe58738bbf",
+      "signature": "75ff4375685eb0e2d5160558186857a66874f23d7bc1a4df1d5348c948b9326f667baeebef4f534c1ae0cdec3bf97a438fcf308afe18083042fd5c4ced00be85",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "device1_v7.fwimg"
+      "file": "device1_v8.fwimg"
     }
   }
 }
