@@ -3,14 +3,15 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 22,
-      "size": 76672,
-      "image_size": 143232,
+      "version": 23,
+      "size": 76656,
+      "image_size": 143216,
       "header_gap": 66560,
-      "sha256": "62043a08f3ec6b40be901d5fd925a3c7c8a01c472704f21fa70d19f92490f86a",
-      "signature": "2ddf2b307850c2b30ca5663d546827e4d86349990514e2b959b5f3eada016c71afa5d3162dae215e7348f890777b7bb11918ebaaf9faf54d821deb158489f870",
+      "sha256": "0156d4dd83551571f03fdbce56264fc2b913a05ad422bf0a2a29d6a0d25ac966",
+      "signature": "b8fb00c1d20a97cf16f20e668189790c5458809849d2ba929edbdda20e417a7e99f2c35a27d2d21e52e000a812064794f3e58488f497dd8365e9b04299290288",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v22.fwimg"
+      "encryption": "AES-256-CTR",
+      "file": "gateway_v23.fwimg"
     },
     "device1": {
       "target": "device1",
@@ -19,10 +20,11 @@
       "size": 239108,
       "image_size": 240132,
       "header_gap": 1024,
-      "sha256": "cb753e9b9746315e066da9323f078d1deba6fe2b114a71039325fcfe58738bbf",
-      "signature": "75ff4375685eb0e2d5160558186857a66874f23d7bc1a4df1d5348c948b9326f667baeebef4f534c1ae0cdec3bf97a438fcf308afe18083042fd5c4ced00be85",
+      "sha256": "134007539015756b82616041e5545239f23c02d4b1eb95a618895d39274829c1",
+      "signature": "01ed469b39f1cb7b4ecbf73e21d861b749332478104cab2421d5d7ad949526fe321ef99ffc873ec19aed9f6a21145f384bef41141f67cb16f4e074cb087fe1b6",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "device1_v7.fwimg"
+      "encryption": "AES-256-CTR",
+      "file": "device1_v102.fwimg"
     }
   }
 }
