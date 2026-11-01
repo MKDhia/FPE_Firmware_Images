@@ -3,15 +3,15 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 24,
+      "version": 23,
       "size": 76656,
       "image_size": 143216,
       "header_gap": 66560,
-      "sha256": "d72741129773bb53a299aed0df88649652b3e6134f485ce10c309ad515566f72",
-      "signature": "738d4396ff166a6d61e12da2c86d122cbbd0139f9b1567a338d09f61e3e3162e20417587a4eed976681f2d243f82a1f150fa7afc3d6ac0fdb0f833070ee802bb",
+      "sha256": "7b18956bc8e06eb40a7465cfe9652e482abf4d3a1cf24c3cdfc7d4fc3172b42a",
+      "signature": "a1e7b52a2612d6b62867270f19c746b752a41b712bd906ac60d6d28c3947a7fd684ed2977378135b843a22c361ebb732884ec617db0d3917318395eb9b6ccf3b",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "encryption": "AES-256-CTR",
-      "file": "gateway_v24.fwimg"
+      "file": "gateway_v23.fwimg"
     },
     "device1": {
       "target": "device1",
@@ -24,7 +24,7 @@
       "signature": "01ed469b39f1cb7b4ecbf73e21d861b749332478104cab2421d5d7ad949526fe321ef99ffc873ec19aed9f6a21145f384bef41141f67cb16f4e074cb087fe1b6",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "encryption": "AES-256-CTR",
-      "file": "device1_v102.fwimg"
+      "file": "device1_v7.fwimg"
     }
   }
 }
