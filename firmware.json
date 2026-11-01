@@ -3,7 +3,7 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 23,
+      "version": 22,
       "size": 76656,
       "image_size": 143216,
       "header_gap": 66560,
@@ -11,7 +11,7 @@
       "signature": "b8fb00c1d20a97cf16f20e668189790c5458809849d2ba929edbdda20e417a7e99f2c35a27d2d21e52e000a812064794f3e58488f497dd8365e9b04299290288",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "encryption": "AES-256-CTR",
-      "file": "gateway_v23.fwimg"
+      "file": "gateway_v22.fwimg"
     },
     "device1": {
       "target": "device1",
@@ -24,7 +24,7 @@
       "signature": "01ed469b39f1cb7b4ecbf73e21d861b749332478104cab2421d5d7ad949526fe321ef99ffc873ec19aed9f6a21145f384bef41141f67cb16f4e074cb087fe1b6",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "encryption": "AES-256-CTR",
-      "file": "device1_v102.fwimg"
+      "file": "device1_v7.fwimg"
     }
   }
 }
