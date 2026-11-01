@@ -3,7 +3,7 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 20,
+      "version": 30,
       "size": 76656,
       "image_size": 143216,
       "header_gap": 66560,
@@ -11,7 +11,7 @@
       "signature": "4c37fb896ce0ed1fb89f8944df42f0f26a8e0f691ef9b01b0993dcf36455eb4bfd7ad9aa287de58a576f7ef517c6754f54b5b3b852d33eaabda1fa8110e570e8",
       "signature_algorithm": "ECDSA-P256-SHA256",
       "encryption": "AES-256-CTR",
-      "file": "gateway_v20.fwimg"
+      "file": "gateway_v30.fwimg"
     },
     "device1": {
       "target": "device1",
