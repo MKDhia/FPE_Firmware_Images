@@ -10,7 +10,7 @@
       "sha256": "62043a08f3ec6b40be901d5fd925a3c7c8a01c472704f21fa70d19f92490f86a",
       "signature": "2ddf2b307850c2b30ca5663d546827e4d86349990514e2b959b5f3eada016c71afa5d3162dae215e7348f890777b7bb11918ebaaf9faf54d821deb158489f870",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v31.fwimg"
+      "file": "gateway_v22.fwimg"
     },
     "device1": {
       "target": "device1",
@@ -22,7 +22,7 @@
       "sha256": "cb753e9b9746315e066da9323f078d1deba6fe2b114a71039325fcfe58738bbf",
       "signature": "75ff4375685eb0e2d5160558186857a66874f23d7bc1a4df1d5348c948b9326f667baeebef4f534c1ae0cdec3bf97a438fcf308afe18083042fd5c4ced00be85",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "device1_v8.fwimg"
+      "file": "device1_v7.fwimg"
     }
   }
 }
