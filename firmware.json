@@ -8,9 +8,9 @@
       "image_size": 143232,
       "header_gap": 66560,
       "sha256": "62043a08f3ec6b40be901d5fd925a3c7c8a01c472704f21fa70d19f92490f86a",
-      "signature": "220916e0e9e63445ac5127726e1d026bfbfb7f06bf8a45e72c5e4b761ac3578d9237c5a1d96dac5c13ce2e9673d44756dec4f42157c1ddaf175e88c9c0eec009",
+      "signature": "2ddf2b307850c2b30ca5663d546827e4d86349990514e2b959b5f3eada016c71afa5d3162dae215e7348f890777b7bb11918ebaaf9faf54d821deb158489f870",
       "signature_algorithm": "ECDSA-P256-SHA256",
-      "file": "gateway_v30.fwimg"
+      "file": "gateway_v31.fwimg"
     },
     "device1": {
       "target": "device1",
