@@ -3,7 +3,7 @@
     "gateway": {
       "target": "gateway",
       "target_id": 1,
-      "version": 30,
+      "version": 22,
       "size": 76672,
       "image_size": 143232,
       "header_gap": 66560,
@@ -15,7 +15,7 @@
     "device1": {
       "target": "device1",
       "target_id": 2,
-      "version": 8,
+      "version": 7,
       "size": 239108,
       "image_size": 240132,
       "header_gap": 1024,
